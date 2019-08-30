@@ -12,8 +12,9 @@ tarafından hazırlanmış ve sunulmuştur.
 - **Önerilen Sunum Süresi :** +15 Dakika
 - **Ayrıntı Düzeyi :** Yüzeysel, temel konular
 
+---
 
 - **Sunumun Yapıldığı Etkinlik :** Hack'nBreak 2019
 - **Sunumun Yapıldığı Tarih :** 29 Ağustos 2019 22:30
 - **Sunumun Yapıldığı Mekan :** Hedy Lamarr Dersliği 
-OpenCampus, Urla, İzmir, Türkiye
+, OpenCampus, Urla, İzmir, Türkiye
